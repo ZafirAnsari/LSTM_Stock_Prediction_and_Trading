@@ -1,0 +1,6 @@
+torch
+pandas
+yfinance
+datetime
+tqdm
+ta-lib
